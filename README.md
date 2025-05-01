@@ -1,1 +1,1 @@
-# Python Test Project
+# Python Image Scanner
